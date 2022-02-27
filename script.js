@@ -1,0 +1,1 @@
+prompt("Hello, welcome to my page")
