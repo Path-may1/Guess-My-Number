@@ -89,7 +89,7 @@ document.querySelector('.check').addEventListener('click', function() {
 
  
 });
-
+// coding the again class
 document.querySelector('.again').addEventListener('click', function () {
 
     score = 20;
